@@ -1,0 +1,21 @@
+.post-detail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+  }
+  
+  .post-detail h1 {
+    margin-bottom: 20px;
+  }
+  
+  .post-detail h3 {
+    margin-bottom: 10px;
+  }
+  
+  .post-detail p {
+    margin-bottom: 10px;
+  }
